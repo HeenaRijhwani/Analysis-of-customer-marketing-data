@@ -1,6 +1,6 @@
 # Analysis-of-customer-marketing-data
 
-[See html page](https://docs.readme.com/docs/linking-to-pages#:~:text=To%20link%20inline%2C%20type%20the,%2C%20%22(y)%22.&text=Reference%2Dstyle%20linking%20allows%20you,refer%20to%20it%20multiple%20times.)
+[See html page](file:///C:/Users/heena/OneDrive/Desktop/CS%20544/Project/CS_544_TermProject_Group3/CS_544_TermProject_Group3_Final.html)
 
 Analyzed customer marketing data using R Markdown to help companies customize and focus marketing schemes towards particular demographics.
 
