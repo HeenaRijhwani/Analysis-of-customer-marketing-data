@@ -8,4 +8,4 @@ Utilized interactive lineplots, boxplots, grouped and stacked barplots, histogra
 Performed sampling techniques like Simple Random Sampling (with and without replacement), Systematic Sampling, Stratified Sampling and observed distributions of the samples.
 Plotted histograms to observe the distribution of samples for varying sample sizes based on the Central Limit Theorem.
 
-Techniques used: Sampling, CLT, Linear Regression, Two sided T test
+Techniques used: Sampling, CLT, Linear Regression, Two sided T test.
