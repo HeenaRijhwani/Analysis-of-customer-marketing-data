@@ -1,5 +1,15 @@
 # Analysis-of-customer-marketing-data
-[See html file](https://htmlpreview.github.io/?https://github.com/HeenaRijhwani/Analysis-of-customer-marketing-data/blob/main/Marketing_analysis.html)
+
+Instructions to run:
+Open code in R Studio and click on 'Knit' to view the html file.
+
+This is how the html looks like:
+![Screenshot (48)](https://user-images.githubusercontent.com/110256585/184555379-ad1870a5-bcfd-4a4f-aa4b-f0cee02a87db.png)
+
+![Screenshot (50)](https://user-images.githubusercontent.com/110256585/184555424-9a93eda1-1ed1-4852-8e8f-3be33957b115.png)
+
+![Screenshot (52)](https://user-images.githubusercontent.com/110256585/184555465-776a6bf6-a03c-455b-826b-50f8355b4363.png)
+
 
 Analyzed customer marketing data using R Markdown to help companies customize and focus marketing schemes towards particular demographics.
 
